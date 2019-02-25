@@ -30,4 +30,5 @@ curl -X POST -d '{"last_message_id":-1}' http://{ip_address}:8888/messages | pyt
 
 
 ------------------------------------------------------------
-"Zrozumieć programowanie", Gynvael Coldwind PWN, Warszawa 2015 
+"Zrozumieć programowanie", Gynvael Coldwind PWN, Warszawa 2015
+https://github.com/gynvael/zrozumiec-programowanie 
