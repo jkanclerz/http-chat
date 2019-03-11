@@ -13,7 +13,7 @@ python httpchat.py
 Wysyłka wiadomości
 ```bash
 
-curl -X POST -d '{"text": "Hello World"}' http://{ip_address}:8888
+curl -X POST -d '{"text": "Hello World"}' http://{ip_address}:8888/chat
 ```
 
 Pobranie wiadomości
